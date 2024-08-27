@@ -1,0 +1,67 @@
+.food-bar-heading{
+  font-size: 25px;
+  font-family:Helvetica;
+  font-weight: bold;
+  color: rgb(30, 57, 50);
+  position: relative;
+  left:282px;
+  top: 162px;
+}
+.food-bar{
+  display: flex;
+  justify-content: space-between;
+  width: 1280px;
+  position: relative;
+  top:157px;
+  left: 273px;
+  height: 140px;
+}
+.food-bar img{
+  width: 108px;
+  border-radius: 80px;
+  margin-top: 4px;
+  cursor: pointer;
+}
+.food-bar img:hover{
+  border:solid;
+  border-width:2px;
+  width: 105px;
+  border-color:rgb(0, 128, 76);
+}
+.food-bar p{
+  font-size: 13px;
+  font-family:Helvetica;
+  font-weight: bold;
+}
+.food-bar p{
+  position: relative;
+  bottom: 9px;
+}
+.n0{
+  position: relative;
+  left: 20px;
+}
+.n1{
+  position: relative;
+  left: 32px;
+}
+.n2{
+  position: relative;
+  left: 38px;
+}
+.n3{
+  position: relative;
+  left: 13px;
+}
+.n4{
+  position: relative;
+  left:8px;
+}
+.n5{
+  position: relative;
+  left: 14px;
+}
+
+
+
+
